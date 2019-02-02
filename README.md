@@ -1,8 +1,9 @@
 # AI MANGEMENT
 
-**I have just starting building this repository for my March 20/21 2019 course on O'Reilly Safari thanks to Packt**
+**I have just starting building this repository for my March 20/21 2019 course on O'Reilly Safari.
+Many thanks to Packt for this opportunity to share my views on AI**
 
-#Next Generation Decision Making - Pragmatic Artificial Intelligence
+# Next Generation Decision Making - Pragmatic Artificial Intelligence
 
 It will get cooler and larger around early March 2019.
 
