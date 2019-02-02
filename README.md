@@ -4,7 +4,7 @@
 Many thanks to Packt for this opportunity to share my views on AI**
 
 
-It will get cooler and larger around early March 2019.
+All of the material will be uploaded and available 48h before the beginning of the course.
 
 In the meantime, for more:
 https://www.safaribooksonline.com/live-training/courses/next-generation-decision-making-pragmatic-artificial-intelligence/0636920256069/
