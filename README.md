@@ -180,7 +180,7 @@ He began his career authoring one of the first AI cognitive Chatbot 30+ years ag
 He has authored a profit orientated AI resource optimizing system written in Horn Clauses in Prolog for IBM and implemented in corporate environments. He also transposed it in C++, Java and presently in Python/Tensorflow. 
 In the years after, he authored an AI APS (Advanced Planning and Scheduling) solution based on cognitive patterns. This #AI software is used worldwide to this day in the aerospace, train, energy, apparel and many other corporate fields. 
 
-Name: Denis Rothman
+Name: Denis Rothman<br>
 Personal Websites, blogs and Social network pages:<br>
 [Artificiel Intelligence Blog](http://www.artificialintelligencebyexample.com/)<br>
 [Amazon page](https://www.amazon.com/Denis-Rothman/e/B07DFRCJG8)<br>
