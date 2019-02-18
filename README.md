@@ -15,7 +15,7 @@ The courses are an extension of Artificial Intelligence by Example by Denis Roth
 [Obtain the book on Amazon](https://www.amazon.com/Artificial-Intelligence-Example-intelligence-artificial-dp-1788990544/dp/1788990544/ref=mt_paperback?_encoding=UTF8&me=&qid=)
 
 ## Programs
-The program(s) for this course are Google Jupyter Python-Tensorflow Notebooks. You have nothing to install!
+The program(s) for this course are Google Jupyter Python-Tensorflow Notebooks. You have nothing to install!<br>
 [Guide to use Google Jupyter Notebooks for this course](https://github.com/Denis2054/AI_Educational)
 
 
