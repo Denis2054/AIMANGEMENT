@@ -90,7 +90,7 @@ You will just need a Google account and a Google Drive Account which comes free 
 After the course or during course, and only  for those who wish,  you will be able to download programs and documents from GitHub to read and run them on your machine(s).<br><br>
 ## Schedule<br><br>
 The timeframes are only estimates and may vary according to how the class is progressing<br>
-## DAY 1 (~4 hours)
+### DAY 1 (~4 hours)
 
 ### Section 1: Explore the state of art, ground-breaking AI solutions <br><br>
 (Instructor Lecture, lab, Q&A) - 50 minutes<br>
