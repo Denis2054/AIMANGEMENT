@@ -91,14 +91,15 @@ After the course or during course, and only  for those who wish,  you will be ab
 ## Schedule<br><br>
 The timeframes are only estimates and may vary according to how the class is progressing<br>
 ## DAY 1 (~4 hours)
-<br>
+
 ### Section 1: Explore the state of art, ground-breaking AI solutions <br><br>
 (Instructor Lecture, lab, Q&A) - 50 minutes<br>
 ### Lecture  
 Viewing and understanding artificial intelligence,  machine learning, and deep learning algorithms. Learning how they work and how to use them in a practical real-life project. <br>
 ### Lab
 Building a basic AI project simulation checklist using the online course form you will be able to keep. Each workshop will add more elements to this document.<br>
-### Break: 10 mins<br><br>
+### Break: 10 mins
+<br><br>
 ### Section 2: AI in Robotic Process Automation(RPA) <br><br>
 (Instructor Lecture, lab, Q&A)- 50 minutes<br>
 ### Lecture
