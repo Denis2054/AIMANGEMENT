@@ -37,8 +37,7 @@ If you do not have one, there are plenty of examples online. Start by googling "
 ## Outline
 
 Outline of the course
-This course provides a comprehensive view of how artificial intelligence can provide decision-making tools for a wide range of problems to solve. The course shows how AI can analyze, predict and anticipate problems providing preventive decision making in real-time.
-
+This course provides a comprehensive view of how artificial intelligence can provide decision-making tools for a wide range of problems to solve. The course shows how AI can analyze, predict and anticipate problems providing preventive decision making in real-time.<br><br>
 You will explore how to apply artificial intelligence to specific profit-generating areas in your company and use cutting-edge machine learning performance measurements to make real-time decisions. 
 
 This course covers the key aspects of artificial intelligence from the tools to their implementation on local servers or cloud platforms. We will take a project-based approach to understand how future AI solutions are built and the best use cases for deploying them. Once implemented, we will discover how to use these AI tools for predictive and preventive decision-making.
