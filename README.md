@@ -1,6 +1,7 @@
 # Next Generation Decision Making - Pragmatic Artificial Intelligence
-## Course on March 20 and 21 2019
-## by Denis Rothman for live Packt and Safari Online training
+## March 20 & 21, 2019
+## 1:00pm – 5:00pm CET
+### by Denis Rothman for live Packt and Safari Online training
      
 ## Goal
 This document is for a live course on O'Reilly's e-learning platform.
