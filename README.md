@@ -100,7 +100,8 @@ Viewing and understanding artificial intelligence,  machine learning, and deep l
 ### Lab
 Building a basic AI project simulation checklist using the online course form you will be able to keep. Each workshop will add more elements to this document.<br>
 ### Break: 10 mins
-<br>
+<br><br>
+
 ### Section 2: AI in Robotic Process Automation(RPA) 
 
 (Instructor Lecture, lab, Q&A)- 50 minutes<br>
