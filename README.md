@@ -107,60 +107,69 @@ Learning how to first try to use RPA without artificial intelligence to build a 
 ### Lab
 Deciding which solutions (RPA, AI or AI-RPA) to use for a real-life project using the online document started in section 1.
 ### Break: 10 mins<br><br>
-### Section 3: AI, databases and Big Data<br><br>
-(Instructor Lecture, lab, Q&A), - 50 minutes<br>
+### Section 3: AI, databases and Big Data
+<br><br>
+(Instructor Lecture, lab, Q&A), - 50 minutes
 # Lecture
 <br>
 How and when to integrate artificial intelligence into standard databases (SQL Server, Oracle, MySQL, other) and Big Data solutions. Using machine learning to analyze the quality of the data provided, extract the accurate data and produce lists of noise in the data (errors, inaccurate information).<br>
 We will explore this critical aspect of any software project through real-life case studies.<br>
-### Lab<br>
+### Lab
+<br>
 Deciding which type of database, databases or data source to use in the online course document for a real-life project. <br>
 ### Break: 10 mins<br><br>
-Section 4: Case study 
+### Section 4: Case study 
 (Instructor Lecture, lab, Q&A) - 60 minutes
-Lecture: Taking a standard project from the specifications provided to implementation using classical tools and artificial intelligence.
+### Lecture: Taking a standard project from the specifications provided to implementation using classical tools and artificial intelligence.
 How to convince a team to use an AI solution through a  POC(Proof of Concept) approach including KPIs(Key Performance Indicators) and ROI( Return on Investment). 
 Lab: Building a AI-KPI and ROI system on the online course document to prove your point
-DAY 2 (~4 hours)
-Section 5: Automated Planning and Scheduling  
+### DAY 2 (~4 hours)
+### Section 5: Automated Planning and Scheduling  
 (Instructor Lecture, lab, Q&A) - 50 minutes
-Lecture: How it has become impossible to make accurate decisions with the amount and variety of data that is now available. The information input changes so quickly it has become a challenge to adapt and replan a strategy.  Automated Planning and Scheduling using Machine Learning algorithms can parse all the data available, distinguish reliable from unreliable data, key indicators and valuable decision making information. We will explore real-life AI case studies for data centers, services, and manufacturing.
+### Lecture
+How it has become impossible to make accurate decisions with the amount and variety of data that is now available. The information input changes so quickly it has become a challenge to adapt and replan a strategy.  Automated Planning and Scheduling using Machine Learning algorithms can parse all the data available, distinguish reliable from unreliable data, key indicators and valuable decision making information. We will explore real-life AI case studies for data centers, services, and manufacturing.
 We will explore how to manage hundreds of parameters through machine learning and detect slight variances from the initial goals. Then we will see how automated preventive methods will solve a problem in real-time before it goes out of control.
-Lab: Checking the functionality you would like to use on the online course document:
+
+### Lab: Checking the functionality you would like to use on the online course document:
 which information to run machine learning on 
 which actions you would like to trigger based on your decision rules. 
 which information you would like machine learning to provide to make your own final human decision.
-Break: 10 mins
-Section 6: Warehouse AI - Optimizing and management 
+### Break: 10 mins
+### Section 6: Warehouse AI - Optimizing and management 
 (Instructor Lecture, lab, Q&A) - 50 minutes
-Lecture: The rise of e-commerce has generated huge warehouses and thousands of decisions to make daily: optimal warehouse locations, the best storage areas, the cost-effective pier organization, transport cost management and all the aspects of SCM (Supply Chain Management). Artificial Intelligence provides the tools to run decision-making algorithms and provide effortless actions and reports for managers to use in real-time.
+### Lecture
+The rise of e-commerce has generated huge warehouses and thousands of decisions to make daily: optimal warehouse locations, the best storage areas, the cost-effective pier organization, transport cost management and all the aspects of SCM (Supply Chain Management). Artificial Intelligence provides the tools to run decision-making algorithms and provide effortless actions and reports for managers to use in real-time.
 We explore real-life AI case studies for several types of warehouses and supply chain models. We will also see how to apply these models to other domains through transfer learning.
-Lab: Using the online course document to decide how this technology could apply to your business or transpose it to other areas beyond warehouse management.
-Break: 10 mins
-Section 7: AI applied to Key Performance Indicators (AI-KPI)
+### Lab
+Using the online course document to decide how this technology could apply to your business or transpose it to other areas beyond warehouse management.
+### Break: 10 mins
+### Section 7: AI applied to Key Performance Indicators (AI-KPI)
 (Instructor Lecture, lab, Q&A) - 50 minutes
-Lecture:  We will discover how artificial intelligence can identify a slight change in a strategic plan of a corporation, predict a negative variance to come (future production and deliveries) and provide powerful KPIs (Key Performance Indicators) that enable a manager to anticipate problems and solve them before they actually occur.
+###Lecture
+We will discover how artificial intelligence can identify a slight change in a strategic plan of a corporation, predict a negative variance to come (future production and deliveries) and provide powerful KPIs (Key Performance Indicators) that enable a manager to anticipate problems and solve them before they actually occur.
 We will explore real-life case studies and see how AI can predict a future problem, anticipate the actions to be taken and provide a clear vision to a manager.
 
-Lab: Using the online course document to find areas your activity could benefit from preventive decision making to avoid problems before they happen.
+### Lab
+
+Using the online course document to find areas your activity could benefit from preventive decision making to avoid problems before they happen.
 
 Break: 10 mins
 
-Section 8: An advanced case study using all the AI and technologies covered 
+### Section 8 An advanced case study using all the AI and technologies covered 
 (Instructor Lecture, Lab, Q&A) - 60 minutes
-Lecture: How all of the technology presented in this course put together can generate exponential productivity and profit.
+### Lecture: How all of the technology presented in this course put together can generate exponential productivity and profit.
 
 We will explore how this technology applies to e-commerce, sales in general, human resource management, production, warehouse, and delivery management.
 
 We will discover the efficiency of a multi-agent system over a single central program. Predictive machine learning tools will show how to automate plan changes in real-time.
 
-Lab: Finalizing the online course document to check the technology you could use for each department of your activity. 
+### Lab: Finalizing the online course document to check the technology you could use for each department of your activity. 
 
 Wrap-up:  Summary, Discussions (30 min)
 Interactive Discussion on the basic and ground-breaking aspects of the course
 
 
-About the Instructor 
+### About the Instructor 
 Denis Rothman graduated from l'Université Paris-Sorbonne and l'Université Paris-Diderot, writing one of the very first word2matrix embedding solutions.  
 He began his career authoring one of the first AI cognitive Chatbot 30+ years ago applied to a cognitive & digitized language teaching Chatbot. He customized it for Moët et Chandon (LVMH) and scores of companies in various forms. https://www.linkedin.com/pulse/did-you-miss-ai-parsing-train-denis-rothman
 He has authored a profit orientated AI resource optimizing system written in Horn Clauses in Prolog for IBM and implemented in corporate environments. He also transposed it in C++, Java and presently in Python/Tensorflow. 
