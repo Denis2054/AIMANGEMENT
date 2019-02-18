@@ -99,7 +99,7 @@ Viewing and understanding artificial intelligence,  machine learning, and deep l
 ### Lab
 Building a basic AI project simulation checklist using the online course form you will be able to keep. Each workshop will add more elements to this document.<br>
 ### Break: 10 mins
-<br><br>
+<br>
 ### Section 2: AI in Robotic Process Automation(RPA) <br><br>
 (Instructor Lecture, lab, Q&A)- 50 minutes<br>
 ### Lecture
@@ -108,16 +108,18 @@ Learning how to first try to use RPA without artificial intelligence to build a 
 Deciding which solutions (RPA, AI or AI-RPA) to use for a real-life project using the online document started in section 1.
 ### Break: 10 mins<br><br>
 ### Section 3: AI, databases and Big Data
-<br><br>
+
 (Instructor Lecture, lab, Q&A), - 50 minutes
 # Lecture
-<br>
+
 How and when to integrate artificial intelligence into standard databases (SQL Server, Oracle, MySQL, other) and Big Data solutions. Using machine learning to analyze the quality of the data provided, extract the accurate data and produce lists of noise in the data (errors, inaccurate information).<br>
-We will explore this critical aspect of any software project through real-life case studies.<br>
+We will explore this critical aspect of any software project through real-life case studies.
+
 ### Lab
-<br>
+
 Deciding which type of database, databases or data source to use in the online course document for a real-life project. <br>
-### Break: 10 mins<br><br>
+### Break: 10 mins
+
 ### Section 4: Case study 
 (Instructor Lecture, lab, Q&A) - 60 minutes
 ### Lecture: Taking a standard project from the specifications provided to implementation using classical tools and artificial intelligence.
