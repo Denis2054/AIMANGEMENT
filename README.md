@@ -100,9 +100,11 @@ Viewing and understanding artificial intelligence,  machine learning, and deep l
 Building a basic AI project simulation checklist using the online course form you will be able to keep. Each workshop will add more elements to this document.<br>
 ### Break: 10 mins
 <br>
-### Section 2: AI in Robotic Process Automation(RPA) <br><br>
+### Section 2: AI in Robotic Process Automation(RPA) 
+
 (Instructor Lecture, lab, Q&A)- 50 minutes<br>
 ### Lecture
+
 Learning how to first try to use RPA without artificial intelligence to build a solid database and process environment. Then introduce a specific artificial intelligence algorithm in the system to control all of the parameters of a multi-agent system with an advanced predictive decision-making algorithm.<br>
 ### Lab
 Deciding which solutions (RPA, AI or AI-RPA) to use for a real-life project using the online document started in section 1.
@@ -110,7 +112,7 @@ Deciding which solutions (RPA, AI or AI-RPA) to use for a real-life project usin
 ### Section 3: AI, databases and Big Data
 
 (Instructor Lecture, lab, Q&A), - 50 minutes
-# Lecture
+### Lecture
 
 How and when to integrate artificial intelligence into standard databases (SQL Server, Oracle, MySQL, other) and Big Data solutions. Using machine learning to analyze the quality of the data provided, extract the accurate data and produce lists of noise in the data (errors, inaccurate information).<br>
 We will explore this critical aspect of any software project through real-life case studies.
@@ -167,7 +169,7 @@ We will discover the efficiency of a multi-agent system over a single central pr
 
 ### Lab: Finalizing the online course document to check the technology you could use for each department of your activity. 
 
-Wrap-up:  Summary, Discussions (30 min)
+### Wrap-up:  Summary, Discussions (30 min)
 Interactive Discussion on the basic and ground-breaking aspects of the course
 
 
