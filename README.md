@@ -16,7 +16,7 @@ The courses are an extension of Artificial Intelligence by Example by Denis Roth
 
 ## Programs
 The program(s) for this course are Google Jupyter Python-Tensorflow Notebooks. You have nothing to install!
-![Guide to use Google Jupyter Notebooks for this course](https://github.com/Denis2054/AI_Educational)
+[Guide to use Google Jupyter Notebooks for this course](https://github.com/Denis2054/AI_Educational)
 
 
 
