@@ -91,6 +91,7 @@ After the course or during course, and only  for those who wish,  you will be ab
 ## Schedule<br><br>
 The timeframes are only estimates and may vary according to how the class is progressing<br>
 ## DAY 1 (~4 hours)
+<br>
 ### Section 1: Explore the state of art, ground-breaking AI solutions <br><br>
 (Instructor Lecture, lab, Q&A) - 50 minutes<br>
 ### Lecture  
@@ -107,7 +108,8 @@ Deciding which solutions (RPA, AI or AI-RPA) to use for a real-life project usin
 ### Break: 10 mins<br><br>
 ### Section 3: AI, databases and Big Data<br><br>
 (Instructor Lecture, lab, Q&A), - 50 minutes<br>
-# Lecture<br>
+# Lecture
+<br>
 How and when to integrate artificial intelligence into standard databases (SQL Server, Oracle, MySQL, other) and Big Data solutions. Using machine learning to analyze the quality of the data provided, extract the accurate data and produce lists of noise in the data (errors, inaccurate information).<br>
 We will explore this critical aspect of any software project through real-life case studies.<br>
 ### Lab<br>
