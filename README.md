@@ -5,7 +5,7 @@
 ## Goal
 This document is for a live course on O'Reilly's e-learning platform.
 You can find details on the course at the following link:<br/>
-[Link to course registration](https://www.safaribooksonline.com/live-training/courses/next-generation-decision-making-pragmatic-artificial-intelligence/0636920256069/
+[Link to course registration](https://www.safaribooksonline.com/live-training/courses/next-generation-decision-making-pragmatic-artificial-intelligence/0636920256069/)
 <br>
 ## Background
 The courses are an extension of Artificial Intelligence by Example by Denis Rothman:<br/>
