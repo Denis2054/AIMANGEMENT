@@ -181,13 +181,13 @@ He has authored a profit orientated AI resource optimizing system written in Hor
 In the years after, he authored an AI APS (Advanced Planning and Scheduling) solution based on cognitive patterns. This #AI software is used worldwide to this day in the aerospace, train, energy, apparel and many other corporate fields. 
 
 Name: Denis Rothman
-Personal Websites, blogs and Social network pages:
-[Artificiel Intelligence Blog](http://www.artificialintelligencebyexample.com/)
-[Amazon page](https://www.amazon.com/Denis-Rothman/e/B07DFRCJG8)
-[AI website](http://www.eco-ai-horizons.com/)
+Personal Websites, blogs and Social network pages:<br>
+[Artificiel Intelligence Blog](http://www.artificialintelligencebyexample.com/)<br>
+[Amazon page](https://www.amazon.com/Denis-Rothman/e/B07DFRCJG8)<br>
+[AI website](http://www.eco-ai-horizons.com/)<br>
 
-[GitHub](https://github.com/Denis2054/)
+[GitHub](https://github.com/Denis2054/)<br>
 
-To contact me, the best place is here:
+To contact me, the best place is here:<br>
 [LinkedIn](https://www.linkedin.com/in/denis-rothman-0b034043)
 
