@@ -2,7 +2,9 @@
 ## March 20 & 21, 2019
 ## 1:00pm – 5:00pm CET
 ### by Denis Rothman for live Packt and Safari Online training
-     
+
+![Next Generation Decision Making](https://github.com/Denis2054/Hands-on-Chatbots/blob/master/Next-Generation-Decision-Making---Pragmatic-Artificial-Intelligence.png)
+
 ## Goal
 This document is for a live course on O'Reilly's e-learning platform.
 You can find details on the course at the following link:<br/>
