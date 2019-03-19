@@ -1,5 +1,7 @@
 # Next Generation Decision Making - Pragmatic Artificial Intelligent
 
+![](https://github.com/Denis2054/NEXTGENAI/blob/master/nextgenai2.gif)
+
 This is a free course I use during AI sessions.
 
 ## Goal
