@@ -1,4 +1,4 @@
-# Next Generation Decision Making - Pragmatic Artificial Intelligent
+# Next Generation Decision Making - Pragmatic Artificial Intelligence
 
 ![](https://github.com/Denis2054/NEXTGENAI/blob/master/nextgenai2.gif)
 
