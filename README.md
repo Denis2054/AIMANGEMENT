@@ -1,6 +1,6 @@
-# Next Generation Decision Making - Pragmatic Artificial Intelligence
+# Next Generation Decision Making - Pragmatic Artificial Intelligent
 
-![Next Generation Decision Making](https://github.com/Denis2054/NEXTGENAI/blob/master/Next-Generation-Decision-Making---Pragmatic-Artificial-Intelligence.png)
+This is a free course for webinars.
 
 ## Goal
 Provide insight on how to implement real-life AI solutions in a holistic way using all of the tools available to us.
