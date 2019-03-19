@@ -1,6 +1,6 @@
 # Next Generation Decision Making - Pragmatic Artificial Intelligent
 
-This is a free course for webinars.
+This is a free course I use during AI sessions.
 
 ## Goal
 Provide insight on how to implement real-life AI solutions in a holistic way using all of the tools available to us.
