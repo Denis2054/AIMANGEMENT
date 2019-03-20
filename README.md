@@ -2,7 +2,7 @@
 
 ![](https://github.com/Denis2054/NEXTGENAI/blob/master/nextgenai2.gif)
 
-This is a course I use for live online AI sessions.
+This is a course for live online AI sessions.
 
 ## Goal
 Provide insight on how to implement real-life AI solutions in a holistic way using all of the tools available to us.
